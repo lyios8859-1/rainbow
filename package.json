@@ -1,0 +1,25 @@
+{
+  "name": "rainbow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:docs": "vitepress dev docs --open --port 8080",
+    "build:docs": "vitepress build docs",
+    "serve:docs": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyios8859-1/rainbow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lyios8859-1/rainbow/issues"
+  },
+  "homepage": "https://github.com/lyios8859-1/rainbow#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
