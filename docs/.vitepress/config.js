@@ -1,7 +1,7 @@
 module.exports = {
   title: "YUN-UI",
   description: "Vue3 YUN UI",
-
+  base: "/rainbow/",
   /*
   VitePress 用 markdown-it 作为 Markdown 渲染器。
   可以通过在 .vitepress/config.js 中使用 markdown 选项定制：
