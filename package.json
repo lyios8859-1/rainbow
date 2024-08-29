@@ -6,7 +6,7 @@
   "scripts": {
     "dev:docs": "vitepress dev docs --open --port 8080",
     "build:docs": "vitepress build docs",
-    "serve:docs": "vitepress serve docs"
+    "preview:docs": "vitepress preview docs"
   },
   "repository": {
     "type": "git",
