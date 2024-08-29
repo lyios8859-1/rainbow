@@ -15,7 +15,7 @@ jobs:
           persist-credentials: false
 
       - name: Build
-        run: yarn && yarn build:docs && cp docs/public/logo.png docs/.vitepress/dist
+        run: yarn && yarn run build:docs && cp docs/public/logo.png docs/.vitepress/dist
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
