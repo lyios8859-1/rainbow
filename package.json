@@ -20,6 +20,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "vitepress": "^1.0.0-rc.25"
+    "vitepress": "^1.3.4"
   }
 }
